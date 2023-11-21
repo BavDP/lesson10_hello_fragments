@@ -13,12 +13,10 @@ import android.widget.Button;
 
 public class HelloFragment extends Fragment {
 
-    private Button moreButton;
-
     @Override
     public void onViewCreated(@NonNull View view, @Nullable Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
-        moreButton = view.findViewById(R.id.button);
+        Button moreButton = view.findViewById(R.id.button);
         moreButton.setOnClickListener(this::moreButtonClick);
     }
 

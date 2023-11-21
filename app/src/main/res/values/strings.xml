@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">HelloAppWithFragments</string>
-    <string name="helloFragment">Hi! This is first fragment of App for lesson #10 part 3! Click \"More...\" button</string>
-    <string name="more">More...</string>
+    <string name="helloFragment">Hi! This is first fragment of App for lesson #10 part 3! Click \"More…\" button</string>
+    <string name="more">More…</string>
     <string name="back">Back</string>
     <string name="appDetails">Application for lesson 10 part 3. Just an example of using fragments. Version 1.0.0</string>
     <!-- TODO: Remove or change this placeholder text -->
